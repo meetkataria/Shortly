@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/meetkataria/Shortly.git/static/css/main.f964340a.chunk.css",
+    "main.js": "/meetkataria/Shortly.git/static/js/main.9fb39859.chunk.js",
+    "main.js.map": "/meetkataria/Shortly.git/static/js/main.9fb39859.chunk.js.map",
+    "runtime-main.js": "/meetkataria/Shortly.git/static/js/runtime-main.caa6b582.js",
+    "runtime-main.js.map": "/meetkataria/Shortly.git/static/js/runtime-main.caa6b582.js.map",
+    "static/css/2.97503911.chunk.css": "/meetkataria/Shortly.git/static/css/2.97503911.chunk.css",
+    "static/js/2.2865140d.chunk.js": "/meetkataria/Shortly.git/static/js/2.2865140d.chunk.js",
+    "static/js/2.2865140d.chunk.js.map": "/meetkataria/Shortly.git/static/js/2.2865140d.chunk.js.map",
+    "index.html": "/meetkataria/Shortly.git/index.html",
+    "static/css/2.97503911.chunk.css.map": "/meetkataria/Shortly.git/static/css/2.97503911.chunk.css.map",
+    "static/css/main.f964340a.chunk.css.map": "/meetkataria/Shortly.git/static/css/main.f964340a.chunk.css.map",
+    "static/js/2.2865140d.chunk.js.LICENSE.txt": "/meetkataria/Shortly.git/static/js/2.2865140d.chunk.js.LICENSE.txt",
+    "static/media/boostLinks.css": "/meetkataria/Shortly.git/static/media/bg-boost-desktop.772154c9.svg",
+    "static/media/shorten.css": "/meetkataria/Shortly.git/static/media/bg-shorten-desktop.0d9742f4.svg",
+    "static/media/icon-brand-recognition.c349d3b6.svg": "/meetkataria/Shortly.git/static/media/icon-brand-recognition.c349d3b6.svg",
+    "static/media/icon-detailed-records.265c8aea.svg": "/meetkataria/Shortly.git/static/media/icon-detailed-records.265c8aea.svg",
+    "static/media/icon-fully-customizable.a1532a74.svg": "/meetkataria/Shortly.git/static/media/icon-fully-customizable.a1532a74.svg",
+    "static/media/illustration-working.c9b5ef54.svg": "/meetkataria/Shortly.git/static/media/illustration-working.c9b5ef54.svg",
+    "static/media/logo.83464303.svg": "/meetkataria/Shortly.git/static/media/logo.83464303.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.caa6b582.js",
+    "static/css/2.97503911.chunk.css",
+    "static/js/2.2865140d.chunk.js",
+    "static/css/main.f964340a.chunk.css",
+    "static/js/main.9fb39859.chunk.js"
+  ]
+}
