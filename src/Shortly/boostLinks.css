@@ -1,0 +1,23 @@
+.boost {
+  margin-top: -20px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+  height: 190px;
+  background: url("../images/bg-boost-desktop.svg");
+  background-position: center;
+  background-color: #3b3054;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tag {
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+.boost button {
+  margin-top: 0px;
+}

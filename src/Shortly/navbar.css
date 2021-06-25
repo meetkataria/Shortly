@@ -1,0 +1,42 @@
+.navbar {
+  margin-top: 25px;
+  display: flex;
+  align-items: center;
+}
+
+.pages {
+  margin-left: 26px;
+}
+
+a {
+  font-weight: 700;
+  font-size: 17px;
+  text-decoration: none;
+  margin: 0px 15px;
+  color: #8b8a8a;
+}
+
+a:hover {
+  color: #35323e;
+}
+
+.login {
+  margin-left: 470px;
+  display: flex;
+}
+
+.btn {
+  font-weight: 700;
+  height: 35px;
+  font-size: 17px;
+  border: none;
+  color: #8b8a8a;
+  background: none;
+  cursor: pointer;
+}
+
+.btn:hover {
+  border-radius: 50px;
+  color: white;
+  background: #2acfcf;
+}

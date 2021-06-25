@@ -1,0 +1,100 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.outer {
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.shorten {
+  height: 110px;
+  width: 750px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: url("../images/bg-shorten-desktop.svg");
+  background-color: #3b3054;
+  border-radius: 10px;
+}
+
+.input {
+  font-family: "Popplins", sans-serif;
+  width: 570px;
+  height: 35px;
+  border: none;
+  border-radius: 5px;
+}
+
+::placeholder {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.input:focus {
+  outline: none;
+  border: 2.5px solid #f46262;
+}
+
+.shortenBtn {
+  font-family: "Poppins", sans-serif;
+  cursor: pointer;
+  margin-left: 15px;
+  width: 120px;
+  height: 38px;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  background: none;
+}
+
+.shortenBtn:hover {
+  background: #47c5c5;
+}
+
+.linkData {
+  margin-top: -80px;
+  margin-bottom: 40px;
+}
+
+.eachLink {
+  border-radius: 5px;
+  font-family: "Poppins", sans-serif;
+  display: flex;
+  align-items: center;
+  margin-top: 15px;
+  font-size: 15px;
+  display: flex;
+}
+
+.org {
+  margin-left: 25px;
+  padding: 1px;
+  font-weight: 100;
+}
+
+.short {
+  color: #2acfcf;
+  margin-left: 230px;
+}
+
+.copyButton {
+  font-family: "Poppins", sans-serif;
+  border-radius: 5px;
+  background: #2acfcf;
+  border: none;
+  color: white;
+  cursor: pointer;
+  width: 70px;
+  height: 30px;
+  margin: 0px 30px;
+}
+
+.copyButton:hover {
+  background: #85e6e6;
+}
